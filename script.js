@@ -122,7 +122,7 @@ tl2.to("#page4>#center-page4",{
     top:`-50%`
 })
 
-
+//Canvas 1st wala animation
 
 function canvas(){
     const canvas = document.querySelector("#page7>canvas");
@@ -411,6 +411,7 @@ ScrollTrigger.create({
 canvas();
 
 
+//2nd wala Animation using CANVAS
 
 function canvas1(){
   const canvas = document.querySelector("#page18>canvas");
